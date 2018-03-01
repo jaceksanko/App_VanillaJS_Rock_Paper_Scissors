@@ -1,0 +1,1 @@
+# zadanie_9_7_papier_kamien_nozyce
