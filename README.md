@@ -1,1 +1,1 @@
-# zadanie_9_7_papier_kamien_nozyce
+Application written in vanilla JS, using the following loop: if-else and switch-case.
